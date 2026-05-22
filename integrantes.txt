@@ -15,9 +15,9 @@ INTEGRANTES:
 ═══════════════════════════════════════════════════════════
 
 LINK DO REPOSITÓRIO GITHUB:
-  https://github.com/SEU_USUARIO/SEU_REPOSITORIO
+  https://github.com/NicolasCC7/n1-deteccao-fraudes
 
 LINK DO NOTEBOOK NO GOOGLE COLAB:
-  https://colab.research.google.com/github/SEU_USUARIO/SEU_REPOSITORIO/blob/main/Deteccao_Fraudes_N1.ipynb
+  https://colab.research.google.com/github/NicolasCC7/n1-deteccao-fraudes/blob/main/Deteccao_Fraudes_N1.ipynb
 
 ═══════════════════════════════════════════════════════════
