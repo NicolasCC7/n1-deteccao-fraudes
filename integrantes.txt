@@ -1,0 +1,23 @@
+═══════════════════════════════════════════════════════════
+ IDENTIFICAÇÃO DO GRUPO — Avaliação N1
+ Tema: Detecção de Fraudes em Cartão de Crédito
+ Entrega: 22/05/2026
+═══════════════════════════════════════════════════════════
+
+INTEGRANTES:
+
+  1. Nome: Nicolas Maciel de Souza            RA: 2025116314
+  2. Nome: Matheus Dos Santos Candido         RA: 2025103679
+  3. Nome: Pedro de Paula Miranda             RA: 2025116970
+  4. Nome: Arthur Henrique Longo              RA: 2025116860
+  5. Nome: Janison Silva Mendes               RA: 2026100324
+
+═══════════════════════════════════════════════════════════
+
+LINK DO REPOSITÓRIO GITHUB:
+  https://github.com/SEU_USUARIO/SEU_REPOSITORIO
+
+LINK DO NOTEBOOK NO GOOGLE COLAB:
+  https://colab.research.google.com/github/SEU_USUARIO/SEU_REPOSITORIO/blob/main/Deteccao_Fraudes_N1.ipynb
+
+═══════════════════════════════════════════════════════════
